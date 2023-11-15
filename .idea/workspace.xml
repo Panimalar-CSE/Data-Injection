@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07ee72a3-9d4a-49df-9f17-a7c0fb2972e8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/records.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/records.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/dataToDatabase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/dataToDatabase/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/dataToDatabase/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/dataToDatabase/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/dataToDatabase/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/dataToDatabase/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/dataToDatabase/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/dataToDatabase/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/textExtractor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/textExtractor/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/textExtractor/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/textExtractor/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textExtractor/textExtractor/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YDInLgbE3pRU6Z12XtP6yOQk7o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Backend" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ee72a3-9d4a-49df-9f17-a7c0fb2972e8" name="Changes" comment="" />
+      <created>1700053905513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700053905513</updated>
+    </task>
+    <servers />
+  </component>
+</project>
