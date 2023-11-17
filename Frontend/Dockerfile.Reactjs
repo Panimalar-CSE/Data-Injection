@@ -1,9 +1,0 @@
-FROM node:18-alpine
-
-WORKDIR /usr/resume_parser/React_Js/
-
-COPY . .
-RUN npm run build
-RUN npm install -g serve
-
-CMD ["serve", "-s", "build"]
